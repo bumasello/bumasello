@@ -136,14 +136,6 @@ Portal desenvolvido para:
 
 ---
 
-<div align="center">
-
-*"Comprometido com qualidade e eficiência, sempre buscando novos desafios que me permitam expandir meu conhecimento e contribuir significativamente para o sucesso de organizações de tecnologia."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=bumasello&color=blue)
-
-</div>
-
 ### 📈 Impacto Profissional
 
 ```
