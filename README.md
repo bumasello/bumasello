@@ -134,15 +134,6 @@ Portal desenvolvido para:
 - [ ] Contribuir para projetos **Open Source**
 - [ ] Desenvolver expertise em **Microserviços**
 
-## 🤝 Vamos Conectar!
-
-Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia. Sinta-se à vontade para entrar em contato!
-
-- 💼 **LinkedIn:** [bruno-masello](https://www.linkedin.com/in/bruno-masello)
-- 🌐 **Portfolio:** [brunomaselloport.netlify.app](https://brunomaselloport.netlify.app/)
-- 📧 **Email:** bruno.d.masello@gmail.com
-- 📱 **WhatsApp:** +55 21 97125-6888
-
 ---
 
 <div align="center">
@@ -150,16 +141,6 @@ Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecn
 *"Comprometido com qualidade e eficiência, sempre buscando novos desafios que me permitam expandir meu conhecimento e contribuir significativamente para o sucesso de organizações de tecnologia."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bumasello&color=blue)
-
-</div>
-
-
-
-## 🏆 Conquistas e Métricas
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=bumasello&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -172,55 +153,6 @@ Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecn
 👥 Equipes Impactadas: 5+ departamentos
 ⏱️ Tempo Economizado: 40+ horas/semana para equipes
 ```
-
-## 🎨 Tecnologias por Categoria
-
-<details>
-<summary>🖥️ <strong>Frontend Development</strong></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-</details>
-
-<details>
-<summary>⚙️ <strong>Backend Development</strong></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-</details>
-
-<details>
-<summary>🗄️ <strong>Database & Data Engineering</strong></summary>
-<br>
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-</details>
-
-<details>
-<summary>🤖 <strong>AI & Machine Learning</strong></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</details>
 
 ## 📅 Linha do Tempo Profissional
 
@@ -261,14 +193,6 @@ timeline
 > *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores e disciplina."*
 > 
 > — Robert C. Martin
-
-### 🎯 Princípios que Sigo
-
-- **🔍 Qualidade sobre Quantidade** - Prefiro código bem estruturado e testado
-- **📚 Aprendizado Contínuo** - Sempre explorando novas tecnologias
-- **🤝 Colaboração** - Acredito no poder do trabalho em equipe
-- **🚀 Inovação** - Busco soluções criativas para problemas complexos
-- **📈 Impacto** - Foco em resultados que beneficiem usuários e organizações
 
 ## 🌐 Presença Online
 
