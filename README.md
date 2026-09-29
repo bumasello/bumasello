@@ -24,7 +24,7 @@ declaration. Those facts exist only if somebody records them continuously, and
 once the day is over they cannot be recovered.
 
 ```mermaid
-flowchart LR
+flowchart TD
   A["racing API<br/>4-hourly cron"] --> B["Python pipeline<br/>build_site_data.py"]
   B --> C["derived datasets<br/>horses_v2 · horses_v4"]
   C --> D["Astro site<br/>Cloudflare Workers"]
