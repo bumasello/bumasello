@@ -7,21 +7,16 @@ sit around the figure rather than in it: where it came from, when it was true,
 and what it does not cover. Two years of measuring my own ideas and watching
 them fail is what taught me to put that first.
 
-## What I am building
+## What I build
 
 ### [mazetick](https://github.com/bumasello/mazetick) · [mazetick.com](https://mazetick.com)
 
-Time-stamped market data for UK and Irish horse racing: a record of what could
-be known at each hour of the day, rather than a snapshot of what is known now.
-Live since **13 September 2026**; **3,888 published URLs over 4,567 records** as
-of 24 September 2026.
-
-Racing Post and Sporting Life already publish the racecard and the form, free and
-better than I would. What none of them publishes is *how any of it moved through
-the day*: which each-way terms a bookmaker was advertising at 10:00 and again at
-14:00, how wide the book was, whether the going changed after the 04:00
-declaration. Those facts exist only if somebody records them continuously, and
-once the day is over they cannot be recovered.
+A production data site I designed, built and run alone: collection from an
+external API on a 4-hourly cron with quota spread across keys, derived datasets
+under versioned contracts, and a static Astro front end on Cloudflare Workers.
+Live since **13 September 2026**, **3,888 published URLs over 4,567 records**.
+The subject is UK and Irish horse racing, and what it publishes is what could be
+known at each hour of the day rather than what is known now.
 
 ```mermaid
 flowchart TD
@@ -41,41 +36,7 @@ when a lie would earn more crawl budget.
 Runs on my own Linux server (Oracle Cloud, London). Astro, Cloudflare Workers,
 Python, TypeScript.
 
-### What it measured, and why all of it is negative
-
-Five studies are published. Every one of them argues against something I wanted
-to be true, and each carries its sample, its window, and the script and commit it
-was derived from.
-
-| Measured | Sample | Result |
-|---|---|---|
-| Backing the morning favourite | 33,508 races · Jan 2024 to Sep 2026 | Wins 32.8% of the time, returns **−3.90%** after commission |
-| The place favourite at 1.5 or shorter | same window | Wins **78.8%** of its bets, still returns **−1.22%** |
-| Ten classic handicapping rules | 179,990 runners · 662,000 results | All ten already in the price, to within **0.5pp** |
-| Tote against the exchange | 343 matched races | Pool paid **0.94 / 0.85 / 0.81** of the exchange. No odds band favoured it |
-| Cost of crossing the spread | 212,373 quotes · 26 days | **3.53%** of the price |
-
-A site that tells you a bet winning 78.8% of the time still loses money has no
-reason to flatter the next number it shows you. I spent two years trying to beat
-these markets, first with machine learning and then with classic handicapping
-rules, measured it honestly, and neither worked. Those failures are published
-with their sample sizes rather than buried.
-
-**The spread figure was wrong the first time, and that correction is published
-too.** I measured it at 4.35%, wrote down in advance that I would abandon the
-strategy if execution cost exceeded 80% of the gross signal, and abandoned it.
-Then I found the bug: one line of the filter read the *year* out of a URL instead
-of the course, so a third of the quotes were not British or Irish racing at all.
-The real figure is 3.53%. The net-return scenarios derived from the bad curve
-were **withdrawn rather than corrected**, because a number that inherited
-contamination does not get to stay up with a footnote.
-
-Nothing is published until an agent that does not know the expected answer
-reproduces it from the raw data. It gets the question and a path, nothing else,
-so it cannot see the answer I was hoping for. That check has caught **four**
-inflated or look-ahead-contaminated conclusions so far.
-
-## Other things I have shipped
+### Also shipped
 
 **[sueca](https://github.com/bumasello/sueca)** is real-time multiplayer Sueca,
 the Portuguese card game. Axum and MongoDB Atlas on the backend, Yew and
@@ -103,6 +64,35 @@ API that classifies email and drafts replies,
 
 **[dotfiles](https://github.com/bumasello/dotfiles)** holds my NeoVim and shell
 config, maintained since December 2023. Still my editor.
+
+## How I work
+
+A figure I publish carries its sample, its window, and the script and commit it
+was derived from. Five studies on mazetick taught me why, every one of them
+arguing against something I wanted to be true.
+
+| Measured | Sample | Result |
+|---|---|---|
+| Backing the morning favourite | 33,508 races · Jan 2024 to Sep 2026 | Wins 32.8% of the time, returns **−3.90%** after commission |
+| The place favourite at 1.5 or shorter | same window | Wins **78.8%** of its bets, still returns **−1.22%** |
+| Ten classic handicapping rules | 179,990 runners · 662,000 results | All ten already in the price, to within **0.5pp** |
+| Tote against the exchange | 343 matched races | Pool paid **0.94 / 0.85 / 0.81** of the exchange. No odds band favoured it |
+| Cost of crossing the spread | 212,373 quotes · 26 days | **3.53%** of the price |
+
+Two years of my own ideas, measured and published as failures rather than buried.
+
+**The last one was wrong the first time, and that correction is published too.**
+I had the spread at 4.35%, and abandoned the strategy on a threshold I had
+written down in advance. Then I found the bug: one line of the filter read the
+*year* out of a URL instead of the course, so a third of the quotes were not
+British or Irish racing at all. The net-return scenarios derived from the bad
+curve were **withdrawn rather than corrected**, because a number that inherited
+contamination does not get to stay up with a footnote.
+
+Nothing goes up until an agent that does not know the expected answer reproduces
+it from the raw data. It gets the question and a path, nothing else, so it cannot
+see the answer I was hoping for. That check has caught **four** inflated or
+look-ahead-contaminated conclusions.
 
 ## Day job
 
@@ -159,8 +149,7 @@ Same rule as the numbers above. Saying this costs less than being found out.
 ## Contact
 
 [bruno.d.masello@gmail.com](mailto:bruno.d.masello@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/bruno-masello) ·
-[Portfolio](https://brunomaselloport.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/bruno-masello)
 
 31 public repositories here, first push June 2022. Every racing figure above
 names the script and the commit it was derived from, on
