@@ -1,265 +1,167 @@
-<div align="center">
-
 # Bruno Masello
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Engineering+Specialist;Computer+Science+Student;Always+learning+new+things)
+**Backend and data engineering.** Rio de Janeiro, Brazil. Open to remote.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-masello)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brunomaselloport.netlify.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.d.masello@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521971256888)
+Six years of building things that publish numbers. Most of the work turns out to
+sit around the figure rather than in it: where it came from, when it was true,
+and what it does not cover. Two years of measuring my own ideas and watching
+them fail is what taught me to put that first.
 
-## 👨‍💻 Sobre Mim
+## What I am building
 
-Olá! Sou um profissional de Ciência da Computação com especialização em **Engenharia de Dados** e **Desenvolvimento Full Stack**, apaixonado por tecnologia e resolução de problemas. Atualmente estou no último ano de Ciência da Computação na Universidade Estácio de Sá e acumulei mais de **5 anos de experiência profissional** em qualidade de dados, automação de processos e melhoria de sistemas na **Rede D'Or São Luiz**.
+### [mazetick](https://github.com/bumasello/mazetick) · [mazetick.com](https://mazetick.com)
 
-### 🎯 Objetivos Profissionais
+Time-stamped market data for UK and Irish horse racing: a record of what could
+be known at each hour of the day, rather than a snapshot of what is known now.
+Live since **13 September 2026**; **3,888 published URLs over 4,567 records** as
+of 24 September 2026.
 
-🚀 Aplicar minha combinação de habilidades em manipulação de dados e desenvolvimento de software para criar soluções escaláveis e inovadoras
+Racing Post and Sporting Life already publish the racecard and the form, free and
+better than I would. What none of them publishes is *how any of it moved through
+the day*: which each-way terms a bookmaker was advertising at 10:00 and again at
+14:00, how wide the book was, whether the going changed after the 04:00
+declaration. Those facts exist only if somebody records them continuously, and
+once the day is over they cannot be recovered.
 
-📈 Contribuir para organizações de tecnologia com foco em qualidade, eficiência e inovação
-
-🌱 Expandir continuamente meus conhecimentos em tecnologias emergentes como Rust e Supabase
-
-🤝 Colaborar em projetos que impactem positivamente usuários e organizações
-
-## 🛠️ Stack Tecnológica
-
-### 💻 Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### 🗄️ Banco de Dados
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🚀 Frameworks & Bibliotecas
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 🔧 Ferramentas & Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-## 💼 Experiência Profissional
-
-### 🏥 Rede D'Or São Luiz
-**Analista Júnior - Data Engineering** | *Abril 2025 - Presente*
-
-🔍 Validação, limpeza e padronização de grandes volumes de dados
-
-💾 Desenvolvimento e otimização de consultas SQL em Oracle PL/SQL e SQL Server T-SQL
-
-🔄 Implementação de pipelines ETL com SSIS para automação e integração de dados
-
-📊 Elaboração de relatórios e dashboards para apresentação de insights
-
-**Assistente Administrativo - Data Engineering** | *Março 2021 - Maio 2025*
-
-✅ Garantia da consistência e confiabilidade dos dados em sistemas corporativos
-
-🤖 Desenvolvimento e automação de processos internos
-
-🛠️ Criação de soluções personalizadas para equipes internas
-
-📈 Melhoria de 30% na precisão dos dados através de verificações automatizadas
-
-## 🎓 Formação Acadêmica
-
-**🎓 Bacharelado em Ciência da Computação**  
-*Universidade Estácio de Sá* | 2021 - 2025
-
-## 📜 Certificações
-
-✅ **Análise e Solução de Problemas Complexos**
-
-✅ **Programação para Internet**
-
-✅ **Concepção de Algoritmos Eficientes, Estáveis e Escaláveis**
-
-✅ **Banco de Dados Oracle 2022 Completo: SQL + PL/SQL + Modelagem**
-
-✅ **Programação de Sistemas de Informação**
-
-## 🚀 Projetos em Destaque
-
-### 🐎 Sistema de Apostas em Corridas de Cavalos
-**Tecnologias:** TypeScript, TensorFlow, Telegram API, Node.js
-
-Um microsserviço complexo que:
-
-📡 Consome dados via APIs externas
-
-🧠 Processa informações através de modelos de Machine Learning
-
-🤖 Distribui previsões via chatbot no Telegram
-
-🔒 Utiliza TypeScript para tipagem segura
-
-### 📊 Sistema de Monitoramento de Qualidade de Dados
-**Tecnologias:** PL/SQL, T-SQL, SSIS
-
-Solução que implementei na Rede D'Or para:
-
-🔍 Detectar anomalias antes que se tornem problemas
-
-⚡ Reduzir erros de dados em 30%
-
-📈 Eliminar atrasos para equipes dependentes
-
-🚨 Fornecer alertas proativos
-
-### 🌐 Portal de Processamento Automatizado
-**Tecnologias:** Node.js, Next.js, Full Stack
-
-Portal desenvolvido para:
-
-📋 Automatizar processamento de planilhas críticas
-
-⚡ Reduzir tempo de processamento de horas para minutos
-
-🔧 Permitir tratamento de erros em tempo real
-
-💾 Armazenar resultados automaticamente no banco
-
-## 📊 Estatísticas do GitHub
-
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumasello&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumasello&layout=compact&theme=tokyonight)
-
-## 🏆 Conquistas e Métricas
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=bumasello&theme=tokyonight)](https://git.io/streak-stats)
-
-### 📈 Impacto Profissional
-
-```
-📊 Dados Processados: +1TB mensalmente
-⚡ Redução de Erros: 30% em sistemas críticos
-🚀 Automações Criadas: 15+ processos otimizados
-👥 Equipes Impactadas: 5+ departamentos
-⏱️ Tempo Economizado: 40+ horas/semana para equipes
+```mermaid
+flowchart LR
+  A["racing API<br/>4-hourly cron"] --> B["Python pipeline<br/>build_site_data.py"]
+  B --> C["derived datasets<br/>horses_v2 · horses_v4"]
+  C --> D["Astro site<br/>Cloudflare Workers"]
+  C -.->|"edition closes"| E["frozen<br/>never recomputed"]
 ```
 
-## 🌟 Principais Competências
+**A closed edition is frozen, never recomputed.** Recomputing the past with what
+is known today is look-ahead bias, and it is the easiest way to publish a number
+that is both wrong and flattering. The rest of the design follows from that rule:
+versioned data contracts instead of mutating schemas, listings partitioned by
+stable key instead of by position, a sitemap whose `lastmod` tells the truth even
+when a lie would earn more crawl budget.
 
-🔧 **Tecnologia da Informação**
+Runs on my own Linux server (Oracle Cloud, London). Astro, Cloudflare Workers,
+Python, TypeScript.
 
-📋 **Metodologias Agile**
+### What it measured, and why all of it is negative
 
-🧪 **Teste de Unidade**
+Five studies are published. Every one of them argues against something I wanted
+to be true, and each carries its sample, its window, and the script and commit it
+was derived from.
 
-📊 **Engenharia de Dados**
+| Measured | Sample | Result |
+|---|---|---|
+| Backing the morning favourite | 33,508 races · Jan 2024 to Sep 2026 | Wins 32.8% of the time, returns **−3.90%** after commission |
+| The place favourite at 1.5 or shorter | same window | Wins **78.8%** of its bets, still returns **−1.22%** |
+| Ten classic handicapping rules | 179,990 runners · 662,000 results | All ten already in the price, to within **0.5pp** |
+| Tote against the exchange | 343 matched races | Pool paid **0.94 / 0.85 / 0.81** of the exchange. No odds band favoured it |
+| Cost of crossing the spread | 212,373 quotes · 26 days | **3.53%** of the price |
 
-🔄 **Processos ETL**
+A site that tells you a bet winning 78.8% of the time still loses money has no
+reason to flatter the next number it shows you. I spent two years trying to beat
+these markets, first with machine learning and then with classic handicapping
+rules, measured it honestly, and neither worked. Those failures are published
+with their sample sizes rather than buried.
 
-🤖 **Automação de Processos**
+**The spread figure was wrong the first time, and that correction is published
+too.** I measured it at 4.35%, wrote down in advance that I would abandon the
+strategy if execution cost exceeded 80% of the gross signal, and abandoned it.
+Then I found the bug: one line of the filter read the *year* out of a URL instead
+of the course, so a third of the quotes were not British or Irish racing at all.
+The real figure is 3.53%. The net-return scenarios derived from the bad curve
+were **withdrawn rather than corrected**, because a number that inherited
+contamination does not get to stay up with a footnote.
 
-🧠 **Machine Learning**
+Nothing is published until an agent that does not know the expected answer
+reproduces it from the raw data. It gets the question and a path, nothing else,
+so it cannot see the answer I was hoping for. That check has caught **four**
+inflated or look-ahead-contaminated conclusions so far.
 
-🌐 **Desenvolvimento Full Stack**
+## Other things I have shipped
 
-## 📈 Objetivos de Aprendizado 2025
+**[sueca](https://github.com/bumasello/sueca)** is real-time multiplayer Sueca,
+the Portuguese card game. Axum and MongoDB Atlas on the backend, Yew and
+WebAssembly on the front, the ruleset in a crate both sides share. Auth, lobby
+with automatic matchmaking, the full rules. Deployed.
 
-☐ Aprofundar conhecimentos em **Rust** para aplicações de alta performance
+I learned Rust by finishing this, not by reading about it. The choice of project
+was deliberate: shared state between simultaneous players is exactly where Rust
+stops being polite, so ownership and borrowing stopped being chapters I had read
+and became problems I had to solve for the thing to work.
 
-☐ Explorar **Supabase** para soluções modernas de backend
+In **[py_rpg_mestre_ia](https://github.com/bumasello/py_rpg_mestre_ia)** a
+generative model (Gemini, via function calling) runs as game master for tabletop
+RPG systems, narrating and holding the mechanics for several concurrent players
+over WebSocket. FastAPI, Supabase. Functional prototype.
 
-☐ Implementar práticas avançadas de **CI/CD**
+**[horsing-maze](https://github.com/bumasello/horsing-maze)** is TypeScript
+betting automation, active since April 2025. It is the research codebase
+mazetick's data layer grew out of, kept separate on purpose: no key, no secret
+and no database access belongs in the public site repo.
 
-☐ Contribuir para projetos **Open Source**
+**[email_classifier](https://github.com/bumasello/email_classifier)** is a Python
+API that classifies email and drafts replies,
+[deployed on Vercel](https://email-classifier-sigma.vercel.app).
 
-☐ Desenvolver expertise em **Microserviços**
+**[dotfiles](https://github.com/bumasello/dotfiles)** holds my NeoVim and shell
+config, maintained since December 2023. Still my editor.
 
-## 🎯 Roadmap de Desenvolvimento
+## Day job
 
-### 🔄 Em Andamento
-🐎 **Sistema de Apostas ML** - Microsserviço com TensorFlow
+**Rede D'Or São Luiz**, Rio de Janeiro. There since August 2019, currently Junior
+Analyst in Data Engineering and Backend Development.
 
-📚 **Estudos em Rust** - Aplicações de alta performance
+- RESTful APIs in Node.js and Express for corporate systems integration
+- ETL pipelines in SSIS; automation written in JavaScript and TypeScript
+- Query optimisation in Oracle PL/SQL and SQL Server T-SQL at production volume
+- Microservices for real-time data validation, cleansing and standardisation
+- Deep learning models integrated into automated data-processing workflows
+- Conceived and built a desktop application to give a non-technical internal team
+  operational autonomy over recurring database work, cutting their dependency on
+  technical tickets. Functional, paused before rollout when management changed.
 
-🌐 **Contribuições Open Source** - Projetos da comunidade
+B.Sc. Computer Science, Universidade Estácio de Sá, completed January 2026.
 
-### 📋 Próximos Passos
-🚀 **Certificação AWS** - Cloud Computing
+## Stack, with the depth stated
 
-🔧 **Kubernetes** - Orquestração de containers
+| | Professional | Personal projects |
+|---|---|---|
+| **Backend** | Node.js, Express, NestJS, REST, microservices | Axum (Rust), FastAPI (Python) |
+| **Data** | ETL (SSIS), Oracle PL/SQL, T-SQL, data quality and governance | Python pipelines, PostgreSQL, Supabase |
+| **Frontend** | React, Next.js, Electron | Yew (Rust/WASM), Astro, Tailwind |
+| **Databases** | Oracle, SQL Server, MongoDB | MongoDB Atlas, PostgreSQL, Supabase |
+| **Infra** | Docker, Git | Cloudflare Workers, Oracle Cloud, Netlify, Vercel, Ubuntu Server homelab |
 
-📱 **React Native** - Desenvolvimento mobile
+Linux is real but not a specialism: Arch as a daily driver for a stretch, Ubuntu
+now, a homelab on Ubuntu Server, and the cloud box that runs the mazetick
+pipeline.
 
-🧠 **Deep Learning** - Redes neurais avançadas
+Portuguese native, English fluent and professional, Spanish basic.
 
-## 💡 Filosofia de Desenvolvimento
+### What I have not done
 
-*"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores e disciplina."*
+Same rule as the numbers above. Saying this costs less than being found out.
 
-— Robert C. Martin
+- **No professional code review.** My employer does not practise it as a
+  methodology, so structured review is something I want from a next role, not
+  something I have had.
+- **No professional automated testing.** Unit tests in study and personal
+  projects only.
+- **CI/CD in personal projects only.** GitHub Actions, never in a professional
+  pipeline. No Jenkins at all.
+- **Never configured an MCP server.** My agent-to-tool experience is Gemini
+  function calling, which is the same idea under a different protocol.
+- **No n8n, Zapier, Make** or any visual workflow builder. I automate the same
+  class of problem by writing the integration.
+- **No C# or Unity yet.** Studying C#, and the reason is Unity rather than any
+  job posting, which is why the study survives the posting.
+- English is fluent, but I do not work in it day to day, because Rede D'Or runs
+  in Portuguese.
 
-### 🎯 Princípios que Sigo
+## Contact
 
-🔍 **Qualidade sobre Quantidade** - Prefiro código bem estruturado e testado
+[bruno.d.masello@gmail.com](mailto:bruno.d.masello@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/bruno-masello) ·
+[Portfolio](https://brunomaselloport.netlify.app/)
 
-📚 **Aprendizado Contínuo** - Sempre explorando novas tecnologias
-
-🤝 **Colaboração** - Acredito no poder do trabalho em equipe
-
-🚀 **Inovação** - Busco soluções criativas para problemas complexos
-
-📈 **Impacto** - Foco em resultados que beneficiem usuários e organizações
-
-## 🌐 Presença Online
-
-| Plataforma | Link | Descrição |
-|------------|------|-----------|
-| 💼 LinkedIn | [bruno-masello](https://www.linkedin.com/in/bruno-masello) | Rede profissional e atualizações de carreira |
-| 🌐 Portfolio | [brunomaselloport.netlify.app](https://brunomaselloport.netlify.app/) | Projetos e trabalhos desenvolvidos |
-| 📧 Email | [bruno.d.masello@gmail.com](mailto:bruno.d.masello@gmail.com) | Contato profissional |
-| 📱 WhatsApp | [+55 21 97125-6888](https://wa.me/5521971256888) | Contato direto |
-
-## 🎉 Fun Facts
-
-🎯 Comecei na área de TI como Jovem Aprendiz e cresci organicamente
-
-🐎 Desenvolvo um sistema de ML para corridas de cavalos no tempo livre
-
-🔧 Uso NeoVim como editor principal (sim, sou team Vim!)
-
-📊 Já processei mais de 1TB de dados mensalmente
-
-🚀 Automatizei processos que economizam 40+ horas/semana para equipes
-
-🎓 Estou me formando em Ciência da Computação em 2025
-
-## 🤝 Vamos Conectar!
-
-Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia. Sinta-se à vontade para entrar em contato!
-
-💼 **LinkedIn:** [bruno-masello](https://www.linkedin.com/in/bruno-masello)
-
-🌐 **Portfolio:** [brunomaselloport.netlify.app](https://brunomaselloport.netlify.app/)
-
-📧 **Email:** bruno.d.masello@gmail.com
-
-📱 **WhatsApp:** +55 21 97125-6888
-
----
-
-### 🚀 *"Transformando dados em insights, código em soluções, e desafios em oportunidades"*
-
-**Obrigado por visitar meu perfil! 🙏**
-
-*"Comprometido com qualidade e eficiência, sempre buscando novos desafios que me permitam expandir meu conhecimento e contribuir significativamente para o sucesso de organizações de tecnologia."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=bumasello&color=blue)
-
-</div>
-
+31 public repositories here, first push June 2022. Every racing figure above
+names the script and the commit it was derived from, on
+[mazetick.com](https://mazetick.com).
