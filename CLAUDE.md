@@ -61,6 +61,36 @@ foram violados uma vez pelo README antigo:
 A seção "What I have not done" existe justamente para deixar isso na página, o
 que é escolha deliberada e não descuido a corrigir.
 
+**O portfólio foi aposentado em 29/09/2026.** Não devolver o link de
+`brunomaselloport.netlify.app` a lugar nenhum: a página diz que ele está no 5º
+período e procura o primeiro emprego em back-end. Detalhe no vault,
+`o-portfolio-dizia-que-eu-procurava-o-primeiro-emprego`.
+
+## Equilíbrio das seções
+
+Em 29/09/2026 o README foi reequilibrado porque mazetick ocupava 47% do texto e a
+seção dele abria pelo domínio (Racing Post, termos each-way), que não interessa a
+quem contrata. A regra que saiu disso:
+
+- A seção do mazetick abre pela **engenharia** (pipeline, cota, contratos
+  versionados, Cloudflare Workers, tocado sozinho). O turfe é uma oração.
+- A disciplina de medição **não é sub-seção do mazetick**. Ela é `## How I work`,
+  seção sobre a prática dele, que usa o mazetick como evidência. Pendurada no
+  projeto ela lia como recurso do produto.
+- Projetos ficam juntos sob `## What I build`, não espalhados por dois `##`.
+
+Ao acrescentar qualquer coisa, meça antes de julgar:
+
+```bash
+python3 - <<'PY'
+import re
+t=open("README.md",encoding="utf-8").read()
+parts=re.split(r'\n(?=## )', t); tot=len(t.split())
+for p in parts:
+    w=len(p.split()); print(f"{p.splitlines()[0][:40]:42}{w:>6}{100*w/tot:>6.1f}%")
+PY
+```
+
 ## Voz e forma
 
 Inglês, decidido em 28/09/2026 — o CV, o mazetick e os READMEs dos repos dele já
